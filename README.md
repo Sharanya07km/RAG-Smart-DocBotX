@@ -73,14 +73,14 @@ After interaction, click the Download Response button to save your conversation 
 
 
 
-## Demo and Screenshots
+## Demo
 
 ### Application Interface
-![Application Interface](Screenshot (125).png)
+[Application Interface](Screenshot (125).png)
 
-### Document Upload Example
+### Document
 ![Document Upload](C:\Users\shara\OneDrive\Pictures\Screenshots\Screenshot (122).png)
 
-### Example Chat Interaction
+### Chat Interaction
 ![ Chat Interaction](C:\Users\shara\OneDrive\Pictures\Screenshots\Screenshot (129).png)
 
