@@ -79,7 +79,7 @@ After interaction, click the Download Response button to save your conversation 
 ![Application Interface](Screenshot (125).png)
 
 ### Document
-![Document Upload](C:/Users/shara/OneDrive/Pictures/Screenshots/Screenshot (122).png)
+![Document Upload](https://github.com/Sharanya07km/RAG-Smart-DocBotX/blob/main/Screenshot%20(122).png)
 
 ### Chat Interaction
 ![ Chat Interaction](C:\Users\shara\OneDrive\Pictures\Screenshots\Screenshot (129).png)
