@@ -71,3 +71,16 @@ After interaction, click the Download Response button to save your conversation 
 
 -Conversation Chain: Combines retriever and LLM (ChatGroq) to generate contextual answers.
 
+
+
+## Demo and Screenshots
+
+### Application Interface
+![Application Interface](Screenshot (125).png)
+
+### Document Upload Example
+![Document Upload](C:\Users\shara\OneDrive\Pictures\Screenshots\Screenshot (122).png)
+
+### Example Chat Interaction
+![ Chat Interaction](C:\Users\shara\OneDrive\Pictures\Screenshots\Screenshot (129).png)
+
