@@ -4,23 +4,17 @@ Smart DocBotX 🤖📚
 Overview
 Smart DocBotX is a Retrieval-Augmented Generation (RAG) application designed to streamline the process of extracting insights from unstructured documents like PDFs and Word files. With a conversational AI interface, users can upload documents, ask natural language questions, and receive context-aware answers. This tool is ideal for legal, academic, and business workflows, saving time and improving decision-making by providing accurate responses with source references.
 
-
-Here’s a comprehensive README.md for your RAG (Retrieval-Augmented Generation) application, Smart DocBotX. This file includes sections that describe your application, its functionality, and how to use it:
-
-Smart DocBotX 🤖📚
-Overview
-Smart DocBotX is a Retrieval-Augmented Generation (RAG) application designed to streamline the process of extracting insights from unstructured documents like PDFs and Word files. With a conversational AI interface, users can upload documents, ask natural language questions, and receive context-aware answers. This tool is ideal for legal, academic, and business workflows, saving time and improving decision-making by providing accurate responses with source references.
-
 Features
 Document Upload & Processing: Accepts PDFs and Word documents to extract textual data.
 Contextual Question Answering: Allows users to ask questions and retrieve precise, relevant answers.
 Source Referencing: Provides the original document source for every answer.
 Multi-Document Analysis: Processes multiple files simultaneously for cross-referencing.
 Downloadable Responses: Users can download chat interactions for future use.
+
+
 Installation
 Prerequisites
 Ensure the following dependencies are installed on your system:
-
 Python 3.8+
 Streamlit
 PyPDF2
