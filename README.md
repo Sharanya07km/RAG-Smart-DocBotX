@@ -76,9 +76,9 @@ After interaction, click the Download Response button to save your conversation 
 ## Demo
 
 ### Application Interface
-![Application Interface](Screenshot (125).png)
+![Application Interface](https://github.com/Sharanya07km/RAG-Smart-DocBotX/blob/main/Screenshot%20(125).png)
 
-### Document
+### Document Upload
 ![Document Upload](https://github.com/Sharanya07km/RAG-Smart-DocBotX/blob/main/Screenshot%20(122).png)
 
 ### Chat Interaction
