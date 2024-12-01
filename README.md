@@ -6,9 +6,13 @@ Smart DocBotX is a Retrieval-Augmented Generation (RAG) application designed to 
 
 ## Features
 1.Document Upload & Processing: Accepts PDFs and Word documents to extract textual data.
+
 2.Contextual Question Answering: Allows users to ask questions and retrieve precise, relevant answers.
+
 3.Source Referencing: Provides the original document source for every answer.
+
 4.Multi-Document Analysis: Processes multiple files simultaneously for cross-referencing.
+
 5.Downloadable Responses: Users can download chat interactions for future use.
 
 
